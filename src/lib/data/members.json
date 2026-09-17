@@ -1,0 +1,66 @@
+[
+  {
+    "id": "member-1",
+    "name": "Sarah Mitchell",
+    "role": "Director",
+    "organization": "Lake City Playhouse",
+    "bio": "Sarah has directed over 30 productions in the Coeur d'Alene area and is passionate about community theater.",
+    "email": "sarah@lakecityplayhouse.org"
+  },
+  {
+    "id": "member-2",
+    "name": "Michael Torres",
+    "role": "Artistic Director",
+    "organization": "Aspire Community Theatre",
+    "bio": "Michael brings 15 years of theatrical experience, specializing in musical theater direction.",
+    "email": "michael@aspirecda.com"
+  },
+  {
+    "id": "member-3",
+    "name": "Jennifer Walsh",
+    "role": "Producer",
+    "organization": "CYT North Idaho",
+    "bio": "Jennifer coordinates youth theater programs and productions for CYT North Idaho.",
+    "email": "jennifer@cytnorthidaho.org"
+  },
+  {
+    "id": "member-4",
+    "name": "David Chen",
+    "role": "Technical Director",
+    "organization": "Lake City Playhouse",
+    "bio": "David handles all technical aspects of productions including lighting, sound, and set design.",
+    "email": "david@lakecityplayhouse.org"
+  },
+  {
+    "id": "member-5",
+    "name": "Emily Rodriguez",
+    "role": "Theater Teacher",
+    "organization": "Coeur d'Alene High School",
+    "bio": "Emily leads the high school theater program and has directed award-winning student productions.",
+    "email": "erodriguez@cdasd.org"
+  },
+  {
+    "id": "member-6",
+    "name": "Robert Thompson",
+    "role": "Costume Designer",
+    "organization": "Freelance",
+    "bio": "Robert has designed costumes for over 50 productions throughout the Inland Northwest.",
+    "email": "robert.thompson@email.com"
+  },
+  {
+    "id": "member-7",
+    "name": "Lisa Park",
+    "role": "Stage Manager",
+    "organization": "Aspire Community Theatre",
+    "bio": "Lisa manages productions with precision, ensuring smooth performances every night.",
+    "email": "lisa@aspirecda.com"
+  },
+  {
+    "id": "member-8",
+    "name": "James O'Connor",
+    "role": "President",
+    "organization": "CDA Theater Alliance",
+    "bio": "James founded the CDA Theater Alliance to unite the local theater community.",
+    "email": "james@cdatheateralliance.org"
+  }
+]

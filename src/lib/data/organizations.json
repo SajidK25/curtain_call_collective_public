@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cyt-north-idaho",
+    "name": "CYT North Idaho",
+    "slug": "cyt-north-idaho",
+    "websiteUrl": "https://www.cytnorthidaho.org/",
+    "showsUrl": "https://www.cytnorthidaho.org/shows",
+    "description": "Christian Youth Theater North Idaho provides quality theater arts education and productions for youth and families."
+  },
+  {
+    "id": "aspire-community-theatre",
+    "name": "Aspire Community Theatre",
+    "slug": "aspire-community-theatre",
+    "websiteUrl": "https://www.aspirecda.com",
+    "showsUrl": "https://www.aspirecda.com/shows",
+    "description": "Aspire Community Theatre brings inspiring theatrical experiences to the Coeur d'Alene community."
+  },
+  {
+    "id": "lake-city-playhouse",
+    "name": "Lake City Playhouse",
+    "slug": "lake-city-playhouse",
+    "websiteUrl": "https://www.lakecityplayhouse.org",
+    "showsUrl": "https://www.lakecityplayhouse.org/productions",
+    "description": "Lake City Playhouse has been bringing live theater to North Idaho since 1972."
+  },
+  {
+    "id": "cdah-high-school",
+    "name": "Coeur d'Alene High School",
+    "slug": "cdah-high-school",
+    "websiteUrl": "https://www.cdasd.org/cdah",
+    "showsUrl": "https://www.tix.com/ticket-sales/CHSTheatre/6511",
+    "description": "Coeur d'Alene High School Theatre Department produces quality musical and dramatic productions."
+  },
+  {
+    "id": "coeur-dalene-summer-theatre",
+    "name": "Coeur d'Alene Summer Theatre",
+    "slug": "coeur-dalene-summer-theatre",
+    "websiteUrl": "https://cstidaho.com",
+    "showsUrl": "https://cstidaho.com",
+    "description": "Coeur d'Alene Summer Theatre brings professional-quality summer productions to North Idaho."
+  },
+  {
+    "id": "cda-act",
+    "name": "CDA ACT",
+    "slug": "cda-act",
+    "websiteUrl": "https://cdaact.com",
+    "showsUrl": "https://cdaact.com",
+    "description": "CDA ACT brings community theater to the Coeur d'Alene area with engaging productions."
+  }
+]

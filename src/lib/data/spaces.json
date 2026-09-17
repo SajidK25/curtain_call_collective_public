@@ -1,0 +1,69 @@
+[
+  {
+    "id": "kroc-theater",
+    "name": "The Midge & Pepper Smock Family Theatre at The Kroc",
+    "type": "theater",
+    "address": "1765 West Golf Course Road",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "zip": "83815",
+    "phone": "(208) 769-5260",
+    "email": "krocinfo@usawest.com",
+    "website": "https://www.grace4.org/kroc",
+    "capacity": 299,
+    "description": "A professional-grade theater venue within the Kroc Center, perfect for large productions and concerts."
+  },
+  {
+    "id": "lake-city-playhouse",
+    "name": "Lake City Playhouse",
+    "type": "theater",
+    "address": "1320 E. Garden Ave.",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "zip": "83814",
+    "phone": "(208) 667-1323",
+    "email": "info@lakecityplayhouse.org",
+    "website": "https://www.lakecityplayhouse.org",
+    "capacity": 150,
+    "description": "Historic community theater venue in downtown Coeur d'Alene, hosting local and regional productions."
+  },
+  {
+    "id": "cdah-high-school-auditorium",
+    "name": "Coeur d'Alene High School Auditorium",
+    "type": "theater",
+    "address": "5530 N. 4th Street",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "zip": "83815",
+    "phone": "(208) 769-4300",
+    "website": "https://www.cdasd.org/cdah",
+    "capacity": 400,
+    "description": "Large school auditorium available for theater productions and community events."
+  },
+  {
+    "id": "mountain-lakes-rehearsal",
+    "name": "Mountain Lakes Bible Church",
+    "type": "rehearsal",
+    "address": "2215 N 7th.",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "zip": "83814",
+    "phone": "(208) 765-6500",
+    "email": "office@mlbc.org",
+    "website": "https://www.mountainlakesbible.org",
+    "description": "Church facility with flexible space suitable for rehearsals and smaller performances."
+  },
+  {
+    "id": "reflections-drama-center",
+    "name": "Reflections Drama Center",
+    "type": "both",
+    "address": "1502 W. Idaho Ave.",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "zip": "83814",
+    "phone": "(208) 664-7856",
+    "email": "info@reflectionsdrama.com",
+    "capacity": 80,
+    "description": "Community drama center offering rehearsal space and classes for local theater groups."
+  }
+]

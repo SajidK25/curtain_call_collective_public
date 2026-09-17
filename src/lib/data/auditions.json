@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cyt-wizard-of-oz",
+    "organizationId": "cyt-north-idaho",
+    "organizationName": "CYT North Idaho",
+    "showTitle": "Wizard of Oz",
+    "role": "All roles - ages 8-18",
+    "date": "September 2026",
+    "time": "TBD",
+    "location": "The Midge & Pepper Smock Family Theatre at The Kroc",
+    "address": "1765 West Golf Course Road, Coeur d'Alene, ID 83815",
+    "requirements": "Prepare a song and short monologue. Bring resume and headshot if available.",
+    "registrationUrl": "https://www.cytnorthidaho.org/auditions"
+  },
+  {
+    "id": "aspire-crazy-for-you",
+    "organizationId": "aspire-community-theatre",
+    "organizationName": "Aspire Community Theatre",
+    "showTitle": "Crazy For You",
+    "role": "Lead roles and ensemble",
+    "date": "May 2026",
+    "time": "TBD",
+    "location": "The Midge & Pepper Smock Family Theatre at The Kroc",
+    "address": "1765 West Golf Course Road, Coeur d'Alene, ID 83815",
+    "requirements": "Prepare 16 bars of a musical theater song. Cold reading will be provided.",
+    "registrationUrl": "https://www.aspirecda.com/auditions"
+  },
+  {
+    "id": "lcp-mean-girls",
+    "organizationId": "lake-city-playhouse",
+    "organizationName": "Lake City Playhouse",
+    "showTitle": "Mean Girls",
+    "role": "All roles - seeking adults 18+",
+    "date": "May 2026",
+    "time": "TBD",
+    "location": "Lake City Playhouse",
+    "address": "1320 E. Garden Ave., Coeur d'Alene, ID 83814",
+    "requirements": "Prepare a song and monologue. Bring resume and photo.",
+    "registrationUrl": "https://www.lakecityplayhouse.org/auditions"
+  },
+  {
+    "id": "cdah-fall-2026",
+    "organizationId": "cdah-high-school",
+    "organizationName": "Coeur d'Alene High School",
+    "showTitle": "(TBD)",
+    "role": "All roles - students and community",
+    "date": "Fall 2026",
+    "time": "TBD",
+    "location": "Coeur d'Alene High School",
+    "address": "5530 N. 4th Street, Coeur d'Alene, ID 83815",
+    "requirements": "Check back for details.",
+    "registrationUrl": "https://www.cdasd.org/cdah/theatre"
+  }
+]

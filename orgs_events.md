@@ -1,0 +1,98 @@
+Organization list:
+- CYT North Idaho
+  - Organization URL
+    - https://www.cytnorthidaho.org/
+  - Shows
+    - Anastasia
+      - Performances
+        - Friday, May 15th @ 7:00pm
+        - Saturday, May 16th @ 3:00pm
+        - Saturday, May 16th @ 7:00pm
+        - Sunday, May 17th @ 3:00pm
+        - Friday, May 22nd @ 7:00pm
+        - Saturday, May 23rd @ 3:00pm
+        - Saturday, May 23rd @ 7:00pm
+        - Sunday, May 24th @ 3:00pm
+      - Location
+        - The Midge & Pepper Smock Family Theatre at The Kroc
+        - 1765 West Golf Course Road, Coeur d'Alene, ID 83815
+      - Tickets
+        - https://www.cytnorthidaho.org/shows/Anastasia/48
+    - Finding Nemo Jr.
+      - Performances
+        - Saturday, May 9th @ 6:00pm
+        - Saturday, May 9th @ 3:00pm
+        - Sunday, May 10th @ 3:00pm
+      - Location
+        - Mountain Lakes Bible Church
+        - 2215 N 7th., Coeur d'Alene, ID 83814
+      - Tickets
+        - https://www.cytnorthidaho.org/shows/Finding-Nemo-Jr/49
+- Aspire Community Theatre
+  - Organization URL
+    - https://www.aspirecda.com
+  - Shows
+    - Shrek the Musical
+      - Performances
+        - Friday, April 24 @ 7:30pm
+        - Saturday, April 25 @ 2:00pm
+        - Sunday, April 26 @ 2:00pm
+        - Thursday, April 30 @ 7:30pm
+        - Friday, May 1 @ 7:30pm
+        - Saturday, May 2 @ 2:00pm
+        - Sunday, May 3 @ 2:00pm
+      - Location
+        - The Midge & Pepper Smock Family Theatre at The Kroc
+        - 1765 West Golf Course Road, Coeur d'Alene, ID 83815
+      - Tickets
+        - https://www.showpass.com/shrek-the-musical-2/
+- Lake City Playhouse
+  - Organization URL
+    - https://www.lakecityplayhouse.org
+  - Shows
+    - The Little Princes
+      - Performances
+        - Thursday, April 9 @ 7:30pm
+        - Friday, April 10 @ 7:30pm
+        - Saturday, April 11 @ 2:00pm
+        - Sunday, April 12 @ 2:00pm
+      - Location
+        - Lake City Playhouse
+        - 1320 E. Garden Ave., Coeur d’Alene, ID 83814
+      - Tickets
+        - https://lakecityplayhouse.ticketgoat.com
+    - Once Upon A Mattress
+      - Performances
+        - Friday, May 22 @ 7:30pm
+        - Saturday, May 23 @ 2:00pm
+        - Sunday, May 24 @ 2:00pm
+        - Friday, May 29 @ 7:30pm
+        - Saturday, May 30 @ 2:00pm
+        - Sunday, May 31 @ 2:00pm
+        - Thursday, June 4 @ 7:30pm
+        - Friday, June 5 @ 7:30pm
+        - Saturday, June 6 @ 2:00pm
+        - Sunday, June 7 @ 2:00pm
+      - Location
+        - Lake City Playhouse
+        - 1320 E. Garden Ave., Coeur d’Alene, ID 83814
+      - Tickets
+        - https://lakecityplayhouse.ticketgoat.com
+- Coeur d'Alene High School
+  - Organization URL
+    - https://www.tix.com/ticket-sales/CHSTheatre/6511
+  - Shows
+    - Hadestown
+      - Performances
+        - Thursday, April 23 @ 7:00pm
+        - Friday, April 24 @ 7:00pm
+        - Saturday, April 25 @ 7:00pm
+        - Wednesday, April 29 @ 7:00pm
+        - Thursday, April 30 @ 7:00pm
+        - Friday, May 1 @ 7:00pm
+        - Saturday, May 2 @ 7:00pm
+      - Location
+        - Coeur d'Alene High School
+        - 5530 N. 4th Street, Coeur D Alene, ID 83815
+      - Tickets
+        - https://www.tix.com/ticket-sales/CHSTheatre/6511
